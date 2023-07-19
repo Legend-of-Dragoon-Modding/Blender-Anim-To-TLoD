@@ -52,5 +52,8 @@ You can find me here:
 ```
 BETA 0.1 version
 FIRST RELEASE
-
 ```
+
+![GUI](https://raw.githubusercontent.com/dragoonsouls/Blender-Anim-To-TLoD/main/Images/install_addon.png)
+![GUI](https://raw.githubusercontent.com/dragoonsouls/Blender-Anim-To-TLoD/main/Images/search_addon.png)
+![GUI](https://raw.githubusercontent.com/dragoonsouls/Blender-Anim-To-TLoD/main/Images/3D_View.png)
